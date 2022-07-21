@@ -25,6 +25,8 @@ Arama yapılan sayı dendiğine göre, sorting işlemi yapıldıktan sonra searc
 
 linear searching kullanılırsa time complexity O(n) olur. Aranan ifadenin başta, ortada veya sonda olması durumu katsayı olarak geldiğinden time complexity içinde gösterilmez. Ancak süreyi etkiler.
 
+[patika.dev](https://www.patika.dev/tr)
+
 # Sıralandıktan sonra 18 sayısı 
 Average case durumuna girer.
 

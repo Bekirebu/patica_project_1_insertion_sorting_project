@@ -11,3 +11,5 @@
 ## Big-O
 
 O(n log n) -> O(6 log n)
+
+[patika.dev](https://patika.dev)
